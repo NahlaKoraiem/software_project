@@ -1,2 +1,2 @@
 # software_project
-# hate software
+# lab6_task
